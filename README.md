@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Database Management System.
 - 📫 How to reach me satyam2012004@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/They
 - ⚡ Fun fact:  I love to play chess and listen to music.
 
 <!---
